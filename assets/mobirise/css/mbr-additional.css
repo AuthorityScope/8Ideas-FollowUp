@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #515151;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #515151;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1 .mbr-navbar__items a {
+  font-size: 12px;
+}
+#msg-box5-u .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-u .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-u .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-v .mbr-header__text {
+  color: #222222;
+  font-size: 16px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-v .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-v .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-v .mbr-article P {
+  color: #f51613;
+  font-size: 14px;
+  text-align: center;
+}
+#msg-box5-w .mbr-header__text {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box5-w .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-w .mbr-article {
+  color: #ffffff;
+}
+#header1-m H1 {
+  color: #222222;
+  text-align: right;
+}
+#header1-m P {
+  color: #222222;
+  text-align: right;
+}
+#header1-m I {
+  color: #f51613;
+}
+#msg-box3-n .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #f51613;
+  font-size: 36px;
+}
+#msg-box3-n .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-n .mbr-article {
+  color: #222222;
+  text-align: center;
+}
+#msg-box3-n .mbr-article P {
+  font-size: 21px;
+}
+#ext_menu-p .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #515151;
+}
+#ext_menu-p .mbr-navbar__section {
+  background: #515151;
+}
+#ext_menu-p .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-p .mbr-navbar__items a {
+  font-size: 12px;
+}
+#ext_menu-t .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #515151;
+}
+#ext_menu-t .mbr-navbar__section {
+  background: #515151;
+}
+#ext_menu-t .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-t .mbr-navbar__items a {
+  font-size: 12px;
+}
