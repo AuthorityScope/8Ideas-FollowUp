@@ -304,11 +304,10 @@
               "link": "https://youtu.be/L_--5yq7hmE",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true,
               "active": true
             },
             "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://youtu.be/L_--5yq7hmE",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -318,7 +317,7 @@
           "title": "5 Steps to a Perfect Listing Video",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Click below for the 2 minute overview showing you the 5 steps to follow in creating the perfect listing video.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Watch Now</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/L_--5yq7hmE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch Now</a>",
           "_tags": [
             "Theme"
           ],
