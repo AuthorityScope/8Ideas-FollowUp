@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 33,
+    "uniqCompNum": 35,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -417,6 +417,55 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-n"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/red-and-orange-shape-logo-1-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Contact Zac</strong><br>\n<a href=\"mailto:zbohl@ctot.com\">Email Zac</a><br>\n<a href=\"tel:+1-214-7184902\">Text/Call Zac</a><br><a href=\"https://m.me/zacbohl\" target=\"_blank\">Direct Message Zac</a>",
+          "text2": "<span style=\"font-size: 16px;\"><b>Contact Jen</b></span><br><a href=\"mailto:jjones@ctot.com\">Email Jen</a><br><a href=\"tel:+1-682-7725455\">Text/Call Jen</a><br><br>",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-y",
+          "_styles": {
+            "P": {
+              "color": "#f51613"
+            },
+            "A": {
+              "color": "#f51613"
+            },
+            "STRONG": {
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },

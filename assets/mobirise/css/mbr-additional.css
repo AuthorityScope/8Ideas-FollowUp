@@ -77,6 +77,15 @@
 #msg-box3-n .mbr-article P {
   font-size: 21px;
 }
+#contacts1-y P {
+  color: #f51613;
+}
+#contacts1-y A {
+  color: #f51613;
+}
+#contacts1-y STRONG {
+  font-size: 16px;
+}
 #ext_menu-p .mbr-brand__name {
   font-size: 16px;
 }
